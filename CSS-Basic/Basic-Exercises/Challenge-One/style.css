@@ -1,6 +1,10 @@
+
+span {
+    font-size: 150%;
+}
 ul {
     text-align: center;
 }
-span {
-    text-transform: capitalize;
+body{
+    background-color: aqua;
 }
